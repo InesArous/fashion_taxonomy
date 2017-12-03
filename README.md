@@ -1,4 +1,4 @@
-# Fashion_taxonomy
+# FashionBrain Taxonomy
 
 EU project 732328: "Fashion Brain".
 
