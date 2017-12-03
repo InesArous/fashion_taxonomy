@@ -1,6 +1,7 @@
 # Fashion_taxonomy
 
 EU project 732328: "Fashion Brain".
+
 D1.3: Fashion Brain Taxonomy
 
 The visualization of FashionBrain taxonomy allows us to better analyze the accuracy of the taxonomy. The FashionBrain taxonomy contains 671 classes of fashion items ordered hierarchically. In order to visualize it, we use one of the hypertree tools offered by [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/). With this animation, we can navigate throughout the taxonomy. For example, by clicking on a node, the tree moves, center that node and displays the centered node's children.
