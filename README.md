@@ -15,6 +15,7 @@ open ./Fashion_vis.html
 ```
 
 The input data used for this visualization is under the following folder:
->./Visualisation/data.json
-
+```
+./Visualisation/data.json
+```
 
