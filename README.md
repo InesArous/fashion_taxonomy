@@ -8,11 +8,11 @@ In this repository, we provide a hypertree representation of FashionBrain taxono
 
 # Getting Started
 In order to visualize the FashionBrain taxonomy, first clone this repository:
-
->git clone https://github.com/InesArous/Fashion_taxonomy.git
-
-then open the following html file:
->./Visualisation/Fashion_vis.html
+```
+git clone https://github.com/InesArous/Fashion_taxonomy.git
+cd ./Visualisation/
+open ./Fashion_vis.html 
+```
 
 The input data used for this visualization is under the following folder:
 >./Visualisation/data.json
