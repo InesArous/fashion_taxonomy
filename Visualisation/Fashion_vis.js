@@ -32,10 +32,10 @@ function init(){
     "name": "Fashion",
     "queries": false,
     "description": "",
-    "id": "v-fashion",
+    "id": "v-fashion-2017-12-08",
     "children": [
         {
-            "id": "439",
+            "id": "accessories1",
             "data": {
                 "type": "concept",
                 "depth": 2
@@ -43,15 +43,15 @@ function init(){
             "name": "Accessories",
             "children": [
                 {
-                    "id": "440",
+                    "id": "costume",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Costume Accessories",
+                    "name": "Costume",
                     "children": [
                         {
-                            "id": "441",
+                            "id": "bald-caps",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -60,7 +60,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "442",
+                            "id": "costume-accessory-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -69,7 +69,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "443",
+                            "id": "costume-capes",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -78,7 +78,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "444",
+                            "id": "costume-gloves",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -87,7 +87,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "445",
+                            "id": "costume-hats",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -96,7 +96,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "446",
+                            "id": "costume-special-effects",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -105,7 +105,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "447",
+                            "id": "costume-tobacco-products",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -114,7 +114,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "448",
+                            "id": "pretend-jewelry",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -125,15 +125,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "449",
+                    "id": "babytoddler",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Baby & Toddler Clothing Accessories",
+                    "name": "Baby&Toddler",
                     "children": [
                         {
-                            "id": "450",
+                            "id": "baby-toddler-belts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -142,7 +142,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "451",
+                            "id": "baby-toddler-gloves-mittens",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -151,7 +151,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "452",
+                            "id": "baby-toddler-hats",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -160,7 +160,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "453",
+                            "id": "baby-protective-wear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -171,51 +171,24 @@ function init(){
                     ]
                 },
                 {
-                    "id": "454",
+                    "id": "belt",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "Balaclavas",
+                    "name": "Belt",
                     "children": []
                 },
                 {
-                    "id": "455",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Bandanas & Headties",
-                    "children": []
-                },
-                {
-                    "id": "456",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Belt Buckles",
-                    "children": []
-                },
-                {
-                    "id": "457",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Belts",
-                    "children": []
-                },
-                {
-                    "id": "458",
+                    "id": "bridal",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Bridal Accessories",
+                    "name": "Bridal",
                     "children": [
                         {
-                            "id": "459",
+                            "id": "bridal-veils",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -226,51 +199,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "460",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Button Studs",
-                    "children": []
-                },
-                {
-                    "id": "461",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Collar Stays",
-                    "children": []
-                },
-                {
-                    "id": "462",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Cufflinks",
-                    "children": []
-                },
-                {
-                    "id": "463",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Decorative Fans",
-                    "children": []
-                },
-                {
-                    "id": "464",
+                    "id": "cold-weather",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Cold Weather Accessories",
+                    "name": "Cold Weather",
                     "children": [
                         {
-                            "id": "465",
+                            "id": "arm-warmers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -279,7 +216,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "466",
+                            "id": "ear-muffs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -288,7 +225,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "467",
+                            "id": "fingerless-gloves",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -297,7 +234,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "468",
+                            "id": "gloves",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -306,7 +243,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "469",
+                            "id": "hats",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -315,7 +252,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "470",
+                            "id": "mittens-hand-muffs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -324,7 +261,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "471",
+                            "id": "neck-warmers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -333,7 +270,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "472",
+                            "id": "scarves",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -342,7 +279,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "473",
+                            "id": "sets1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -353,52 +290,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "474",
+                    "id": "hair",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Eyewear",
+                    "name": "Hair",
                     "children": [
                         {
-                            "id": "475",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sunglass Lens Replacements",
-                            "children": []
-                        },
-                        {
-                            "id": "476",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Clear Glass",
-                            "children": []
-                        },
-                        {
-                            "id": "477",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sunglasses",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "478",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "Hair Accessories",
-                    "children": [
-                        {
-                            "id": "479",
+                            "id": "hair-bun-volume-shapers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -407,7 +307,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "480",
+                            "id": "hair-combs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -416,7 +316,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "481",
+                            "id": "hair-extensions",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -425,7 +325,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "482",
+                            "id": "hair-forks-sticks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -434,7 +334,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "483",
+                            "id": "hair-nets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -443,7 +343,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "484",
+                            "id": "hair-pins-claws-clips",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -452,7 +352,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "485",
+                            "id": "hair-wreaths",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -461,7 +361,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "486",
+                            "id": "headbands",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -470,7 +370,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "487",
+                            "id": "ponytail-holders",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -479,7 +379,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "488",
+                            "id": "tiaras",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -488,7 +388,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "489",
+                            "id": "wig-accessories",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -496,7 +396,7 @@ function init(){
                             "name": "Wig Accessories",
                             "children": [
                                 {
-                                    "id": "490",
+                                    "id": "wig-caps",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -505,7 +405,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "491",
+                                    "id": "wig-glue-tape",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -516,7 +416,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "492",
+                            "id": "wigs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -527,300 +427,24 @@ function init(){
                     ]
                 },
                 {
-                    "id": "493",
+                    "id": "sashes",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "sashes",
+                    "name": "Sashes",
                     "children": []
                 },
                 {
-                    "id": "494",
+                    "id": "bags",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Headwear",
+                    "name": "Bags",
                     "children": [
                         {
-                            "id": "495",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Fascinators",
-                            "children": []
-                        },
-                        {
-                            "id": "496",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Headdresses",
-                            "children": []
-                        },
-                        {
-                            "id": "497",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Turbans",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "498",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "belts",
-                    "children": [
-                        {
-                            "id": "499",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Belt Buckles",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "500",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "jewellery",
-                    "children": [
-                        {
-                            "id": "501",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Anklets",
-                            "children": []
-                        },
-                        {
-                            "id": "502",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Body Jewelry",
-                            "children": []
-                        },
-                        {
-                            "id": "503",
-                            "data": {
-                                "type": "concept",
-                                "depth": 4
-                            },
-                            "name": "Bracelets",
-                            "children": [
-                                {
-                                    "id": "504",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Wristbands",
-                                    "children": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "505",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Brooches & Lapel Pins",
-                            "children": []
-                        },
-                        {
-                            "id": "506",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Charms & Pendants",
-                            "children": []
-                        },
-                        {
-                            "id": "507",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Earrings",
-                            "children": []
-                        },
-                        {
-                            "id": "508",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Jewelry Sets",
-                            "children": []
-                        },
-                        {
-                            "id": "509",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Necklaces",
-                            "children": []
-                        },
-                        {
-                            "id": "510",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Rings",
-                            "children": []
-                        },
-                        {
-                            "id": "511",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Tie Clips",
-                            "children": []
-                        },
-                        {
-                            "id": "512",
-                            "data": {
-                                "type": "concept",
-                                "depth": 4
-                            },
-                            "name": "Watch Accessories",
-                            "children": [
-                                {
-                                    "id": "513",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Watch Bands",
-                                    "children": []
-                                },
-                                {
-                                    "id": "514",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Watch Stickers & Decals",
-                                    "children": []
-                                },
-                                {
-                                    "id": "515",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Watch Winders",
-                                    "children": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "516",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Watches",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "517",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "Shoe Accessories",
-                    "children": [
-                        {
-                            "id": "518",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Boot Liners",
-                            "children": []
-                        },
-                        {
-                            "id": "519",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Gaiters",
-                            "children": []
-                        },
-                        {
-                            "id": "520",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shoe Covers",
-                            "children": []
-                        },
-                        {
-                            "id": "521",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shoelaces",
-                            "children": []
-                        },
-                        {
-                            "id": "522",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Spurs",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "523",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Gloves",
-                    "children": []
-                },
-                {
-                    "id": "524",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "bags",
-                    "children": [
-                        {
-                            "id": "525",
+                            "id": "small-bags",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -829,7 +453,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "526",
+                            "id": "small-bags1",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -837,7 +461,7 @@ function init(){
                             "name": "Small Bags",
                             "children": [
                                 {
-                                    "id": "527",
+                                    "id": "phone-cases",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -846,7 +470,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "528",
+                                    "id": "wash-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -855,7 +479,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "529",
+                                    "id": "belt-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -866,7 +490,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "530",
+                            "id": "backpacks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -875,7 +499,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "531",
+                            "id": "tote-bags",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -884,7 +508,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "532",
+                            "id": "diaper-bags",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -893,7 +517,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "533",
+                            "id": "handbags-purses",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -901,7 +525,7 @@ function init(){
                             "name": "Handbags & Purses",
                             "children": [
                                 {
-                                    "id": "534",
+                                    "id": "baguettes",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -910,7 +534,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "535",
+                                    "id": "bowling",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -919,7 +543,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "536",
+                                    "id": "day-clutches",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -928,7 +552,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "537",
+                                    "id": "evening-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -937,7 +561,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "538",
+                                    "id": "hobos",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -946,7 +570,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "539",
+                                    "id": "totes",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -955,7 +579,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "540",
+                                    "id": "wristlets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -966,7 +590,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "541",
+                            "id": "handbag-accessories",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -975,7 +599,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "542",
+                            "id": "backpacks-bookbags",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -983,7 +607,7 @@ function init(){
                             "name": "Backpacks & Bookbags",
                             "children": [
                                 {
-                                    "id": "543",
+                                    "id": "briefcases-laptop-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -991,7 +615,7 @@ function init(){
                                     "name": "Briefcases & Laptop Bags",
                                     "children": [
                                         {
-                                            "id": "544",
+                                            "id": "checkpoint-friendly-laptop-cases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1000,7 +624,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "545",
+                                            "id": "hard-drive-cases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1009,7 +633,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "546",
+                                            "id": "laptop-backpacks",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1018,7 +642,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "547",
+                                            "id": "laptop-messenger-bags",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1027,7 +651,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "548",
+                                            "id": "laptop-sleeves-slipcases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1036,7 +660,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "549",
+                                            "id": "netbook-cases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1045,7 +669,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "550",
+                                            "id": "projector-cases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1054,7 +678,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "551",
+                                            "id": "rolling-wheeled-laptop-cases",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1065,7 +689,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "552",
+                                    "id": "travel-shopping-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -1073,7 +697,7 @@ function init(){
                                     "name": "Travel & Shopping Bags",
                                     "children": [
                                         {
-                                            "id": "553",
+                                            "id": "carry-ons",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1082,7 +706,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "554",
+                                            "id": "garment-bags",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1091,7 +715,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "555",
+                                            "id": "hardside-luggage",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1100,7 +724,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "556",
+                                            "id": "matching-sets",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1109,7 +733,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "557",
+                                            "id": "rolling-luggage",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1118,7 +742,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "558",
+                                            "id": "totes1",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1127,7 +751,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "559",
+                                            "id": "luggage-tags",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1136,7 +760,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "560",
+                                            "id": "packing-cubes",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1145,7 +769,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "561",
+                                            "id": "packing-folders",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1154,7 +778,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "562",
+                                            "id": "shoe-bags",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -1165,7 +789,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "563",
+                                    "id": "duffel-gym-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1174,7 +798,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "564",
+                                    "id": "fanny-waist-packs",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1183,16 +807,16 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "565",
+                                    "id": "travel-shopping-bags1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Other Travel & Shopping Bags",
+                                    "name": "Travel & Shopping Bags",
                                     "children": []
                                 },
                                 {
-                                    "id": "566",
+                                    "id": "reusable-eco-bags",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1205,342 +829,142 @@ function init(){
                     ]
                 },
                 {
-                    "id": "567",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Masks",
-                    "children": []
-                },
-                {
-                    "id": "568",
+                    "id": "socks1",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Hats",
+                    "name": "Socks",
                     "children": [
                         {
-                            "id": "569",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Hard Hats",
-                            "children": []
-                        },
-                        {
-                            "id": "570",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Baseball Caps",
-                            "children": []
-                        },
-                        {
-                            "id": "571",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Berets",
-                            "children": []
-                        },
-                        {
-                            "id": "572",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Bowlers",
-                            "children": []
-                        },
-                        {
-                            "id": "573",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Cowboy Hats",
-                            "children": []
-                        },
-                        {
-                            "id": "574",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Derby Hats",
-                            "children": []
-                        },
-                        {
-                            "id": "575",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Fedoras",
-                            "children": []
-                        },
-                        {
-                            "id": "576",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Knit Caps & Beanies",
-                            "children": []
-                        },
-                        {
-                            "id": "577",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Newsboy Caps",
-                            "children": []
-                        },
-                        {
-                            "id": "578",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Straw Hats",
-                            "children": []
-                        },
-                        {
-                            "id": "579",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sun Hats",
-                            "children": []
-                        },
-                        {
-                            "id": "580",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Visors",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "581",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "Scarves",
-                    "children": [
-                        {
-                            "id": "582",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Cashmere scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "583",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Knit scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "584",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Prints & Patterns scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "585",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Rectangular scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "586",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Silk scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "587",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Square scarves",
-                            "children": []
-                        },
-                        {
-                            "id": "588",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Wool scarves",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "589",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "socks",
-                    "children": [
-                        {
-                            "id": "590",
+                            "id": "sport-socks",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport socks",
+                            "name": "Sport Socks",
                             "children": [
                                 {
-                                    "id": "591",
+                                    "id": "bowling-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "bowling socks",
+                                    "name": "Bowling Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "592",
+                                    "id": "basketball-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "basketball socks",
+                                    "name": "Basketball Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "593",
+                                    "id": "cycling-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "cycling socks",
+                                    "name": "Cycling Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "594",
+                                    "id": "football-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "football socks",
+                                    "name": "Football Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "595",
+                                    "id": "golf-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "golf socks",
+                                    "name": "Golf Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "596",
+                                    "id": "hiking-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "hiking socks",
+                                    "name": "Hiking Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "597",
+                                    "id": "ice-hokey-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Ice hokey socks",
+                                    "name": "Ice Hokey Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "598",
+                                    "id": "running-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "running socks",
+                                    "name": "Running Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "599",
+                                    "id": "skateboarding-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "skateboarding socks",
+                                    "name": "Skateboarding Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "600",
+                                    "id": "snowboarding-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Snowboarding socks",
+                                    "name": "Snowboarding Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "601",
+                                    "id": "soccer-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "soccer socks",
+                                    "name": "Soccer Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "602",
+                                    "id": "tennis-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis socks",
+                                    "name": "Tennis Socks",
                                     "children": []
                                 },
                                 {
-                                    "id": "603",
+                                    "id": "voley-ball-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "voley ball socks",
+                                    "name": "Voley Ball Socks",
                                     "children": []
                                 }
                             ]
                         },
                         {
-                            "id": "604",
+                            "id": "hoisery",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1549,15 +973,15 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "605",
+                            "id": "mens-socks",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "Mens-socks",
+                            "name": "Mens-Socks",
                             "children": [
                                 {
-                                    "id": "606",
+                                    "id": "crew-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1566,7 +990,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "607",
+                                    "id": "dress-socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1577,7 +1001,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "608",
+                            "id": "ankle-socks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1586,7 +1010,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "609",
+                            "id": "boots-socks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1595,7 +1019,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "610",
+                            "id": "footies",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1604,7 +1028,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "611",
+                            "id": "trouser-socks-knee-highs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1615,7 +1039,719 @@ function init(){
                     ]
                 },
                 {
-                    "id": "612",
+                    "id": "wallets",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Wallets",
+                    "children": [
+                        {
+                            "id": "business-credit-card-cases",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Business & Credit Card Cases",
+                            "children": []
+                        },
+                        {
+                            "id": "checkbook-holder",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Checkbook Holder",
+                            "children": []
+                        },
+                        {
+                            "id": "id-badge-holders",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "ID & Badge Holders",
+                            "children": []
+                        },
+                        {
+                            "id": "other-mens-id-doc-holders",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Other Men's ID & Doc Holders",
+                            "children": []
+                        },
+                        {
+                            "id": "passport-holders",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "PasSport Holders",
+                            "children": []
+                        },
+                        {
+                            "id": "business-credit-card-cases1",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Business & Credit Card Cases",
+                            "children": []
+                        },
+                        {
+                            "id": "key-chains-rings-cases",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Key Chains, Rings & Cases",
+                            "children": []
+                        },
+                        {
+                            "id": "organizers-day-planners",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Organizers & Day Planners",
+                            "children": []
+                        },
+                        {
+                            "id": "money-clips",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Money Clips",
+                            "children": []
+                        },
+                        {
+                            "id": "coin-purses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Coin Purses",
+                            "children": []
+                        },
+                        {
+                            "id": "passport-holders1",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "PasSport Holders",
+                            "children": []
+                        },
+                        {
+                            "id": "travel-wallets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Travel Wallets",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "balaclavas",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Balaclavas",
+                    "children": []
+                },
+                {
+                    "id": "bandanas-headties",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Bandanas & Headties",
+                    "children": []
+                },
+                {
+                    "id": "belt-buckles",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Belt Buckles",
+                    "children": []
+                },
+                {
+                    "id": "button-studs",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Button Studs",
+                    "children": []
+                },
+                {
+                    "id": "collar-stays",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Collar Stays",
+                    "children": []
+                },
+                {
+                    "id": "cufflinks",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Cufflinks",
+                    "children": []
+                },
+                {
+                    "id": "decorative-fans",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Decorative Fans",
+                    "children": []
+                },
+                {
+                    "id": "eyewear",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Eyewear",
+                    "children": [
+                        {
+                            "id": "sunglass-lens-replacements",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sunglass Lens Replacements",
+                            "children": []
+                        },
+                        {
+                            "id": "clear-glass",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Clear Glass",
+                            "children": []
+                        },
+                        {
+                            "id": "sunglasses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sunglasses",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "headwear",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Headwear",
+                    "children": [
+                        {
+                            "id": "fascinators",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Fascinators",
+                            "children": []
+                        },
+                        {
+                            "id": "headdresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Headdresses",
+                            "children": []
+                        },
+                        {
+                            "id": "turbans",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Turbans",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "jewellery",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Jewellery",
+                    "children": [
+                        {
+                            "id": "anklets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Anklets",
+                            "children": []
+                        },
+                        {
+                            "id": "body-jewelry",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Body Jewelry",
+                            "children": []
+                        },
+                        {
+                            "id": "bracelets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 4
+                            },
+                            "name": "Bracelets",
+                            "children": [
+                                {
+                                    "id": "wristbands",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Wristbands",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "brooches-lapel-pins",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Brooches & Lapel Pins",
+                            "children": []
+                        },
+                        {
+                            "id": "charms-pendants",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Charms & Pendants",
+                            "children": []
+                        },
+                        {
+                            "id": "earrings",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Earrings",
+                            "children": []
+                        },
+                        {
+                            "id": "jewelry-sets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Jewelry Sets",
+                            "children": []
+                        },
+                        {
+                            "id": "necklaces",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Necklaces",
+                            "children": []
+                        },
+                        {
+                            "id": "rings",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Rings",
+                            "children": []
+                        },
+                        {
+                            "id": "tie-clips",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Tie Clips",
+                            "children": []
+                        },
+                        {
+                            "id": "watch-accessories",
+                            "data": {
+                                "type": "concept",
+                                "depth": 4
+                            },
+                            "name": "Watch Accessories",
+                            "children": [
+                                {
+                                    "id": "watch-bands",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Watch Bands",
+                                    "children": []
+                                },
+                                {
+                                    "id": "watch-stickers-decals",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Watch Stickers & Decals",
+                                    "children": []
+                                },
+                                {
+                                    "id": "watch-winders",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Watch Winders",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "watches",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Watches",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "shoe-accessories",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Shoe Accessories",
+                    "children": [
+                        {
+                            "id": "boot-liners",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Boot Liners",
+                            "children": []
+                        },
+                        {
+                            "id": "gaiters",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Gaiters",
+                            "children": []
+                        },
+                        {
+                            "id": "shoe-covers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Shoe Covers",
+                            "children": []
+                        },
+                        {
+                            "id": "shoelaces",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Shoelaces",
+                            "children": []
+                        },
+                        {
+                            "id": "spurs",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Spurs",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "gloves1",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Gloves",
+                    "children": [
+                        {
+                            "id": "fingerless-gloves1",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Fingerless Gloves",
+                            "children": []
+                        },
+                        {
+                            "id": "velvet-gloves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Velvet Gloves",
+                            "children": []
+                        },
+                        {
+                            "id": "leather-gloves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Leather Gloves",
+                            "children": []
+                        },
+                        {
+                            "id": "wool-gloves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Wool Gloves",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "masks",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Masks",
+                    "children": []
+                },
+                {
+                    "id": "hats1",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Hats",
+                    "children": [
+                        {
+                            "id": "hard-hats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Hard Hats",
+                            "children": []
+                        },
+                        {
+                            "id": "baseball-caps",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Baseball Caps",
+                            "children": []
+                        },
+                        {
+                            "id": "berets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Berets",
+                            "children": []
+                        },
+                        {
+                            "id": "bowlers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Bowlers",
+                            "children": []
+                        },
+                        {
+                            "id": "cowboy-hats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Cowboy Hats",
+                            "children": []
+                        },
+                        {
+                            "id": "derby-hats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Derby Hats",
+                            "children": []
+                        },
+                        {
+                            "id": "fedoras",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Fedoras",
+                            "children": []
+                        },
+                        {
+                            "id": "knit-caps-beanies",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Knit Caps & Beanies",
+                            "children": []
+                        },
+                        {
+                            "id": "newsboy-caps",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Newsboy Caps",
+                            "children": []
+                        },
+                        {
+                            "id": "straw-hats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Straw Hats",
+                            "children": []
+                        },
+                        {
+                            "id": "sun-hats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sun Hats",
+                            "children": []
+                        },
+                        {
+                            "id": "visors",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Visors",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "scarves1",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Scarves",
+                    "children": [
+                        {
+                            "id": "cashmere-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Cashmere Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "knit-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Knit Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "prints-patterns-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Prints & Patterns Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "rectangular-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Rectangular Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "silk-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Silk Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "square-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Square Scarves",
+                            "children": []
+                        },
+                        {
+                            "id": "wool-scarves",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Wool Scarves",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "ties-cummerbunds",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -1623,7 +1759,7 @@ function init(){
                     "name": "Ties & Cummerbunds",
                     "children": [
                         {
-                            "id": "613",
+                            "id": "bow-ties",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1632,7 +1768,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "614",
+                            "id": "neck-ties",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -1643,7 +1779,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "615",
+                    "id": "umbrellas",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -1652,7 +1788,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "616",
+                    "id": "handkerchiefs",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -1661,7 +1797,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "617",
+                    "id": "collar-tips",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -1670,127 +1806,18 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "618",
+                    "id": "belt-buckles1",
                     "data": {
                         "type": "concept",
-                        "depth": 3
+                        "depth": 1
                     },
-                    "name": "Wallets & Key Organizers",
-                    "children": [
-                        {
-                            "id": "619",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Business & Credit Card Cases",
-                            "children": []
-                        },
-                        {
-                            "id": "620",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Checkbook Holder",
-                            "children": []
-                        },
-                        {
-                            "id": "621",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "ID & Badge Holders",
-                            "children": []
-                        },
-                        {
-                            "id": "622",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Other Men's ID & Doc Holders",
-                            "children": []
-                        },
-                        {
-                            "id": "623",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Passport Holders",
-                            "children": []
-                        },
-                        {
-                            "id": "624",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Business & Credit Card Cases",
-                            "children": []
-                        },
-                        {
-                            "id": "625",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Key Chains, Rings & Cases",
-                            "children": []
-                        },
-                        {
-                            "id": "626",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Organizers & Day Planners",
-                            "children": []
-                        },
-                        {
-                            "id": "627",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Money Clips",
-                            "children": []
-                        },
-                        {
-                            "id": "628",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Coin Purses",
-                            "children": []
-                        },
-                        {
-                            "id": "629",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Passport Holders",
-                            "children": []
-                        },
-                        {
-                            "id": "630",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Travel Wallets",
-                            "children": []
-                        }
-                    ]
+                    "name": "Belt Buckles",
+                    "children": []
                 }
             ]
         },
         {
-            "id": "1",
+            "id": "clothes",
             "data": {
                 "type": "concept",
                 "depth": 2
@@ -1798,37 +1825,319 @@ function init(){
             "name": "Clothes",
             "children": [
                 {
-                    "id": "2",
+                    "id": "coats",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "bibs",
+                    "name": "Coats",
                     "children": [
                         {
-                            "id": "3",
+                            "id": "parkas",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Parkas",
+                            "children": []
+                        },
+                        {
+                            "id": "trench-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Trench Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "cashmere-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Cashmere Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "suede-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Suede Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "shearling-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Shearling Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "microfiber-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Microfiber Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "wool-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Wool Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "puffer-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Puffer Coats",
+                            "children": []
+                        },
+                        {
+                            "id": "short-coats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Short Coats",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "dresses",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Dresses",
+                    "children": [
+                        {
+                            "id": "sport-dresses",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport bibs",
+                            "name": "Sport Dresses",
                             "children": [
                                 {
-                                    "id": "4",
+                                    "id": "tennis-dresses",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Snowboarding bibs",
+                                    "name": "Tennis Dresses",
                                     "children": []
                                 },
                                 {
-                                    "id": "5",
+                                    "id": "dance-dresses",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Bicycle bibs",
+                                    "name": "Dance Dresses",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "knitted-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Knitted Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "jersey-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Jersey Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "summer-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Summer Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "dirndl-costumes",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Dirndl & Costumes",
+                            "children": []
+                        },
+                        {
+                            "id": "bridal-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Bridal Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "maxi-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Maxi Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "cocktail-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Cocktail Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "maternity-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Maternity dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "baby-doll",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Baby Doll",
+                            "children": []
+                        },
+                        {
+                            "id": "formal-special-occasions",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Formal & Special Occasions",
+                            "children": []
+                        },
+                        {
+                            "id": "jumpers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Jumpers",
+                            "children": []
+                        },
+                        {
+                            "id": "shirtdresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Shirtdresses",
+                            "children": []
+                        },
+                        {
+                            "id": "sundresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sundresses",
+                            "children": []
+                        },
+                        {
+                            "id": "sweater-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sweater Dresses",
+                            "children": []
+                        },
+                        {
+                            "id": "tank",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Tank",
+                            "children": []
+                        },
+                        {
+                            "id": "wrap",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Wrap",
+                            "children": []
+                        },
+                        {
+                            "id": "day-dresses",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Day-dresses",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "bibs",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Bibs",
+                    "children": [
+                        {
+                            "id": "sport-bibs",
+                            "data": {
+                                "type": "concept",
+                                "depth": 4
+                            },
+                            "name": "Sport bibs",
+                            "children": [
+                                {
+                                    "id": "snowboarding-bibs",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Snowboarding Bibs",
+                                    "children": []
+                                },
+                                {
+                                    "id": "bicycle-bibs",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Bicycle Bibs",
                                     "children": []
                                 }
                             ]
@@ -1836,91 +2145,91 @@ function init(){
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "jerseys",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "jerseys",
+                    "name": "Jerseys",
                     "children": [
                         {
-                            "id": "7",
+                            "id": "sport-jerseys",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport jerseys",
+                            "name": "Sport Jerseys",
                             "children": [
                                 {
-                                    "id": "8",
+                                    "id": "basketball-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "basketball jerseys",
+                                    "name": "Basketball Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "9",
+                                    "id": "bowling-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "bowling jerseys",
+                                    "name": "Bowling Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "10",
+                                    "id": "climbing-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "climbing jerseys",
+                                    "name": "Climbing Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "11",
+                                    "id": "football-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "football jerseys",
+                                    "name": "Football Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "12",
+                                    "id": "golf-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "golf jerseys",
+                                    "name": "Golf Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "13",
+                                    "id": "running-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "running jerseys",
+                                    "name": "Running Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "14",
+                                    "id": "voley-ball-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "voley ball jerseys",
+                                    "name": "Voley Ball Jerseys",
                                     "children": []
                                 },
                                 {
-                                    "id": "15",
+                                    "id": "bicycle-jerseys",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Bicycle jerseys",
+                                    "name": "Bicycle Jerseys",
                                     "children": []
                                 }
                             ]
@@ -1928,7 +2237,297 @@ function init(){
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "jackets",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Jackets",
+                    "children": [
+                        {
+                            "id": "sport-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 4
+                            },
+                            "name": "Sport Jackets",
+                            "children": [
+                                {
+                                    "id": "boxing-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Boxing Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "cycling-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Cycling Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "football-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Football Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "golf-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Golf Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "hiking-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Hiking Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "running-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Running Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "skateboarding-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Skateboarding Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "snowboarding-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Snowboarding Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "soccer-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Soccer Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "tennis-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Tennis Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "motorcycle-jackets",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Motorcycle Jackets",
+                                    "children": []
+                                },
+                                {
+                                    "id": "golf-jackets1",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Golf Jackets",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "puffers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Puffers",
+                            "children": []
+                        },
+                        {
+                            "id": "rain-outdoor-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Rain & Outdoor Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "capes",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Capes",
+                            "children": []
+                        },
+                        {
+                            "id": "blazers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Blazers",
+                            "children": []
+                        },
+                        {
+                            "id": "athletic-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Athletic Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "fleece-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Fleece Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "gilets-waistcoats",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Gilets & Waistcoats",
+                            "children": []
+                        },
+                        {
+                            "id": "lightweight-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Lightweight Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "down-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Down Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "denim-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Denim Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "winter-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Winter Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "sport-jackets1",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Sport Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "maternity-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Maternity Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "motorcycle-jackets1",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Motorcycle Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "suede-jackets",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Suede Jackets",
+                            "children": []
+                        },
+                        {
+                            "id": "leather-jacket",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Leather Jacket",
+                            "children": []
+                        },
+                        {
+                            "id": "shearling-jacket",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Shearling Jacket",
+                            "children": []
+                        },
+                        {
+                            "id": "microfiber-jacket",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Microfiber Jacket",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "skin-suits",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -1936,15 +2535,15 @@ function init(){
                     "name": "skin suits",
                     "children": [
                         {
-                            "id": "17",
+                            "id": "sport-skin-suits",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport skin suits",
+                            "name": "Sport skin suits",
                             "children": [
                                 {
-                                    "id": "18",
+                                    "id": "bicycle-skin-suits",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -1957,337 +2556,46 @@ function init(){
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "blazers1",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "blazers",
+                    "name": "Blazers",
                     "children": []
                 },
                 {
-                    "id": "20",
+                    "id": "cardigan",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "cardigan",
+                    "name": "Cardigan",
                     "children": []
                 },
                 {
-                    "id": "21",
+                    "id": "hoodies",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "coats",
+                    "name": "Hoodies",
                     "children": [
                         {
-                            "id": "22",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Parkas",
-                            "children": []
-                        },
-                        {
-                            "id": "23",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Trench Coats",
-                            "children": []
-                        },
-                        {
-                            "id": "24",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Cashmere Coats",
-                            "children": []
-                        },
-                        {
-                            "id": "25",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Suede coat",
-                            "children": []
-                        },
-                        {
-                            "id": "26",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shearling Coat",
-                            "children": []
-                        },
-                        {
-                            "id": "27",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Microfiber Coat",
-                            "children": []
-                        },
-                        {
-                            "id": "28",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Wool coats",
-                            "children": []
-                        },
-                        {
-                            "id": "29",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Puffer coats",
-                            "children": []
-                        },
-                        {
-                            "id": "30",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Short Coats",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "31",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "dresses",
-                    "children": [
-                        {
-                            "id": "32",
+                            "id": "sport-hoodies",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport dresses",
+                            "name": "Sport hoodies",
                             "children": [
                                 {
-                                    "id": "33",
+                                    "id": "skiing-hoodies",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis dresses",
-                                    "children": []
-                                },
-                                {
-                                    "id": "34",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "dance dresses",
-                                    "children": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "35",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Knitted Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "36",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Jersey Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "37",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Summer Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "38",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Dirndl & Costumes",
-                            "children": []
-                        },
-                        {
-                            "id": "39",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Bridal Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "40",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Maxi Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "41",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Cocktail Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "42",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Maternity dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "43",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Baby Doll",
-                            "children": []
-                        },
-                        {
-                            "id": "44",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Formal & Special Occasions",
-                            "children": []
-                        },
-                        {
-                            "id": "45",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Jumpers",
-                            "children": []
-                        },
-                        {
-                            "id": "46",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shifts",
-                            "children": []
-                        },
-                        {
-                            "id": "47",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shirtdresses",
-                            "children": []
-                        },
-                        {
-                            "id": "48",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sundresses",
-                            "children": []
-                        },
-                        {
-                            "id": "49",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sweater Dresses",
-                            "children": []
-                        },
-                        {
-                            "id": "50",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Tank",
-                            "children": []
-                        },
-                        {
-                            "id": "51",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Wrap",
-                            "children": []
-                        },
-                        {
-                            "id": "52",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Day-dresses",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "53",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "hoodies",
-                    "children": [
-                        {
-                            "id": "54",
-                            "data": {
-                                "type": "concept",
-                                "depth": 4
-                            },
-                            "name": "sport hoodies",
-                            "children": [
-                                {
-                                    "id": "55",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "skiing hoodies",
+                                    "name": "Skiing Hoodies",
                                     "children": []
                                 }
                             ]
@@ -2295,297 +2603,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "56",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "jackets",
-                    "children": [
-                        {
-                            "id": "57",
-                            "data": {
-                                "type": "concept",
-                                "depth": 4
-                            },
-                            "name": "sport jackets",
-                            "children": [
-                                {
-                                    "id": "58",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "boxing jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "59",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "cycling jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "60",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "football jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "61",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "golf jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "62",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "hiking jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "63",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "running jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "64",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "skateboarding jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "65",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Snowboarding jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "66",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "soccer jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "67",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "tennis jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "68",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Motorcycle Jackets",
-                                    "children": []
-                                },
-                                {
-                                    "id": "69",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "golf jackets",
-                                    "children": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "70",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Puffers",
-                            "children": []
-                        },
-                        {
-                            "id": "71",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Rain & Outdoor Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "72",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Capes",
-                            "children": []
-                        },
-                        {
-                            "id": "73",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Blazers",
-                            "children": []
-                        },
-                        {
-                            "id": "74",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Athletic Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "75",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Fleece Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "76",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Gilets & Waistcoats",
-                            "children": []
-                        },
-                        {
-                            "id": "77",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Lightweight Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "78",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Down Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "79",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Denim Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "80",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Winter Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "81",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Sport Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "82",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Maternity Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "83",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Motorcycle Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "84",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Suede Jackets",
-                            "children": []
-                        },
-                        {
-                            "id": "85",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Leather Jacket",
-                            "children": []
-                        },
-                        {
-                            "id": "86",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Shearling Jacket",
-                            "children": []
-                        },
-                        {
-                            "id": "87",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Microfiber Jacket",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "id": "88",
+                    "id": "pantyhose",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -2593,7 +2611,7 @@ function init(){
                     "name": "Pantyhose",
                     "children": [
                         {
-                            "id": "89",
+                            "id": "maternity-pantyhose",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2604,7 +2622,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "90",
+                    "id": "panties",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -2612,7 +2630,7 @@ function init(){
                     "name": "Panties",
                     "children": [
                         {
-                            "id": "91",
+                            "id": "maternity-panties",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2623,7 +2641,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "92",
+                    "id": "outfits-sets",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -2631,7 +2649,7 @@ function init(){
                     "name": "Outfits & Sets",
                     "children": [
                         {
-                            "id": "93",
+                            "id": "maternity-outfits-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2642,16 +2660,16 @@ function init(){
                     ]
                 },
                 {
-                    "id": "94",
+                    "id": "skorts",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "skorts",
+                    "name": "Skorts",
                     "children": []
                 },
                 {
-                    "id": "95",
+                    "id": "pants",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -2659,123 +2677,123 @@ function init(){
                     "name": "Pants",
                     "children": [
                         {
-                            "id": "96",
+                            "id": "sport-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport pants",
+                            "name": "Sport Pants",
                             "children": [
                                 {
-                                    "id": "97",
+                                    "id": "track-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "track pants",
+                                    "name": "Track Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "98",
+                                    "id": "golf-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "golf pants",
+                                    "name": "Golf Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "99",
+                                    "id": "rock-climbing-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "rock climbing pants",
+                                    "name": "Rock Climbing Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "100",
+                                    "id": "yoga-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "yoga pants",
+                                    "name": "Yoga Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "101",
+                                    "id": "cycling-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "cycling pants",
+                                    "name": "Cycling Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "102",
+                                    "id": "football-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "football pants",
+                                    "name": "Football Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "103",
+                                    "id": "hiking-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "hiking pants",
+                                    "name": "Hiking Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "104",
+                                    "id": "ice-hokey-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Ice hokey pants",
+                                    "name": "Ice hokey Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "105",
+                                    "id": "skateboarding-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "skateboarding pants",
+                                    "name": "Skateboarding Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "106",
+                                    "id": "snowboarding-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Snowboarding pants",
+                                    "name": "Snowboarding Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "107",
+                                    "id": "soccer-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "soccer pants",
+                                    "name": "Soccer Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "108",
+                                    "id": "tennis-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis pants",
+                                    "name": "Tennis Pants",
                                     "children": []
                                 },
                                 {
-                                    "id": "109",
+                                    "id": "hunting-tactical-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -2784,7 +2802,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "110",
+                                    "id": "motorcycle-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -2795,7 +2813,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "111",
+                            "id": "business-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2804,16 +2822,16 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "112",
+                            "id": "casual-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Casual pants",
+                            "name": "Casual Pants",
                             "children": []
                         },
                         {
-                            "id": "113",
+                            "id": "joggers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2822,7 +2840,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "114",
+                            "id": "rain-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2831,7 +2849,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "115",
+                            "id": "maternity-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2840,7 +2858,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "116",
+                            "id": "cargo-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2849,7 +2867,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "117",
+                            "id": "carpenter",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2858,7 +2876,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "118",
+                            "id": "corduroy",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2867,7 +2885,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "119",
+                            "id": "chinos-and-khakis",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2876,7 +2894,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "120",
+                            "id": "dress-formal",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2885,7 +2903,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "121",
+                            "id": "overalls",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2894,7 +2912,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "122",
+                            "id": "cropped-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2903,7 +2921,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "123",
+                            "id": "knits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2912,7 +2930,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "124",
+                            "id": "wide-leg-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2921,7 +2939,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "125",
+                            "id": "corduroys",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2930,7 +2948,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "126",
+                            "id": "overalls-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2941,7 +2959,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "127",
+                    "id": "jeans",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -2949,7 +2967,7 @@ function init(){
                     "name": "jeans",
                     "children": [
                         {
-                            "id": "128",
+                            "id": "bootcut-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2958,7 +2976,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "129",
+                            "id": "cropped-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2967,7 +2985,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "130",
+                            "id": "distressed-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2976,7 +2994,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "131",
+                            "id": "flare-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2985,7 +3003,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "132",
+                            "id": "maternity-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -2994,7 +3012,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "133",
+                            "id": "relaxed-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3003,7 +3021,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "134",
+                            "id": "skinny-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3012,7 +3030,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "135",
+                            "id": "stretch-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3021,7 +3039,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "136",
+                            "id": "slim-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3030,7 +3048,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "137",
+                            "id": "straight-leg-jeans",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3041,7 +3059,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "138",
+                    "id": "jumpsuits",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -3050,7 +3068,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "139",
+                    "id": "rompers",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -3059,26 +3077,26 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "140",
+                    "id": "jumpers1",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "jumpers",
+                    "name": "Jumpers",
                     "children": [
                         {
-                            "id": "141",
+                            "id": "fleece-jumpers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Fleece jumpers",
+                            "name": "Fleece Jumpers",
                             "children": []
                         }
                     ]
                 },
                 {
-                    "id": "142",
+                    "id": "leggings",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -3087,142 +3105,142 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "143",
+                    "id": "shirts",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "shirts",
+                    "name": "Shirts",
                     "children": [
                         {
-                            "id": "144",
+                            "id": "sport-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport shirts",
+                            "name": "Sport Shirts",
                             "children": [
                                 {
-                                    "id": "145",
+                                    "id": "boxing-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "boxing shirts",
+                                    "name": "Boxing Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "146",
+                                    "id": "hiking-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "hiking shirts",
+                                    "name": "Hiking Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "147",
+                                    "id": "cycling-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "cycling shirts",
+                                    "name": "Cycling Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "148",
+                                    "id": "ice-hokey-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Ice hokey shirts",
+                                    "name": "Ice Hokey Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "149",
+                                    "id": "tennis-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis shirts",
+                                    "name": "Tennis Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "150",
+                                    "id": "basketball-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "basketball shirts",
+                                    "name": "Basketball Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "151",
+                                    "id": "bowling-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "bowling shirts",
+                                    "name": "Bowling Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "152",
+                                    "id": "fitness-exercise-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Fitness & Exercise shirts",
+                                    "name": "Fitness & Exercise Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "153",
+                                    "id": "golf-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "golf shirts",
+                                    "name": "Golf Shirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "154",
+                                    "id": "soccer-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "soccer shirts",
+                                    "name": "Soccer Shirts",
                                     "children": []
                                 }
                             ]
                         },
                         {
-                            "id": "155",
+                            "id": "t-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "T-shirts",
+                            "name": "T-Shirts",
                             "children": [
                                 {
-                                    "id": "156",
+                                    "id": "sport-t-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
                                     },
-                                    "name": "sport t-shirts",
+                                    "name": "Sport t-Shirts",
                                     "children": [
                                         {
-                                            "id": "157",
+                                            "id": "skiing-t-shirts",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
                                             },
-                                            "name": "skiing t shirts",
+                                            "name": "Skiing T-Shirts",
                                             "children": []
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "158",
+                                    "id": "print-t-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3231,7 +3249,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "159",
+                                    "id": "pattern-t-shirt",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3240,7 +3258,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "160",
+                                    "id": "uni-t-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3251,25 +3269,25 @@ function init(){
                             ]
                         },
                         {
-                            "id": "161",
+                            "id": "longsleeve-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "longsleeve-shirts",
+                            "name": "Longsleeve-Shirts",
                             "children": []
                         },
                         {
-                            "id": "162",
+                            "id": "shortsleeve-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "shortsleeve-shirts",
+                            "name": "Shortsleeve-Shirts",
                             "children": []
                         },
                         {
-                            "id": "163",
+                            "id": "button-downs-oxfords",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3278,7 +3296,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "164",
+                            "id": "dress-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3287,7 +3305,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "165",
+                            "id": "henley-rugby-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3296,7 +3314,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "166",
+                            "id": "polos",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3305,16 +3323,16 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "167",
+                            "id": "button-down-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Button down shirts",
+                            "name": "Button down Shirts",
                             "children": []
                         },
                         {
-                            "id": "168",
+                            "id": "turtlenecks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3323,133 +3341,133 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "169",
+                            "id": "casual-shirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Casual shirts",
+                            "name": "Casual Shirts",
                             "children": []
                         }
                     ]
                 },
                 {
-                    "id": "170",
+                    "id": "shorts",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "shorts",
+                    "name": "Shorts",
                     "children": [
                         {
-                            "id": "171",
+                            "id": "sport-shorts",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport shorts",
+                            "name": "Sport Shorts",
                             "children": [
                                 {
-                                    "id": "172",
+                                    "id": "basketball-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "basketball shorts",
+                                    "name": "Basketball Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "173",
+                                    "id": "bowling-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "bowling shorts",
+                                    "name": "Bowling Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "174",
+                                    "id": "cycling-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "cycling shorts",
+                                    "name": "Cycling Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "175",
+                                    "id": "football-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "football shorts",
+                                    "name": "Football Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "176",
+                                    "id": "hiking-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "hiking shorts",
+                                    "name": "Hiking Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "177",
+                                    "id": "ice-hokey-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Ice hokey shorts",
+                                    "name": "Ice Hokey Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "178",
+                                    "id": "running-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "running shorts",
+                                    "name": "Running Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "179",
+                                    "id": "skateboarding-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "skateboarding shorts",
+                                    "name": "Skateboarding Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "180",
+                                    "id": "skiing-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "skiing shorts",
+                                    "name": "Skiing Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "181",
+                                    "id": "tennis-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis shorts",
+                                    "name": "Tennis Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "182",
+                                    "id": "voleyball-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "voleyball shorts",
+                                    "name": "Voleyball Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "183",
+                                    "id": "boxing-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3458,16 +3476,16 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "184",
+                                    "id": "bicycle-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Bicycle shorts",
+                                    "name": "Bicycle Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "185",
+                                    "id": "martial-arts-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3476,53 +3494,53 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "186",
+                                    "id": "golf-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "golf shorts",
+                                    "name": "Golf Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "187",
+                                    "id": "climbing-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "climbing shorts",
+                                    "name": "Climbing Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "188",
+                                    "id": "soccer-shorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "soccer shorts",
+                                    "name": "Soccer Shorts",
                                     "children": []
                                 },
                                 {
-                                    "id": "189",
+                                    "id": "running-shorts1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "running shorts",
+                                    "name": "Running Shorts",
                                     "children": []
                                 }
                             ]
                         },
                         {
-                            "id": "190",
+                            "id": "maternity-shorts",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "Maternity shorts",
+                            "name": "Maternity Shorts",
                             "children": [
                                 {
-                                    "id": "191",
+                                    "id": "casual",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3531,7 +3549,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "192",
+                                    "id": "denim",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3540,7 +3558,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "193",
+                                    "id": "dress",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3551,7 +3569,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "194",
+                            "id": "bermuda-shorts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3560,7 +3578,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "195",
+                            "id": "casual1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3569,7 +3587,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "196",
+                            "id": "culottes",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3578,7 +3596,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "197",
+                            "id": "cutoffs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3587,7 +3605,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "198",
+                            "id": "denim1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3596,7 +3614,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "199",
+                            "id": "denim-shorts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3605,7 +3623,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "200",
+                            "id": "dress1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3614,7 +3632,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "201",
+                            "id": "knits-elastic-waist",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3623,7 +3641,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "202",
+                            "id": "khaki",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3632,7 +3650,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "203",
+                            "id": "skorts1",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -3640,20 +3658,20 @@ function init(){
                             "name": "skorts",
                             "children": [
                                 {
-                                    "id": "204",
+                                    "id": "sport-skorts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
                                     },
-                                    "name": "sport skorts",
+                                    "name": "Sport Skorts",
                                     "children": [
                                         {
-                                            "id": "205",
+                                            "id": "tennis-skorts",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
                                             },
-                                            "name": "tennis  skorts",
+                                            "name": "Tennis  Skorts",
                                             "children": []
                                         }
                                     ]
@@ -3663,81 +3681,81 @@ function init(){
                     ]
                 },
                 {
-                    "id": "206",
+                    "id": "skirts",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "skirts",
+                    "name": "Skirts",
                     "children": [
                         {
-                            "id": "207",
+                            "id": "sport-skirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sport skirts",
+                            "name": "Sport Skirts",
                             "children": [
                                 {
-                                    "id": "208",
+                                    "id": "tennis-skirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "tennis skirts",
+                                    "name": "Tennis Skirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "209",
+                                    "id": "dance-skirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "dance skirts",
+                                    "name": "Dance Skirts",
                                     "children": []
                                 }
                             ]
                         },
                         {
-                            "id": "210",
+                            "id": "maternity-skirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Maternity skirts",
+                            "name": "Maternity Skirts",
                             "children": []
                         },
                         {
-                            "id": "211",
+                            "id": "mid-length-skirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Mid-length-skirts",
+                            "name": "Mid-length-Skirts",
                             "children": []
                         },
                         {
-                            "id": "212",
+                            "id": "mini-skirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Mini-skirts",
+                            "name": "Mini-Skirts",
                             "children": []
                         },
                         {
-                            "id": "213",
+                            "id": "long-skirts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Long skirts",
+                            "name": "Long Skirts",
                             "children": []
                         }
                     ]
                 },
                 {
-                    "id": "214",
+                    "id": "costumes",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -3746,15 +3764,15 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "215",
+                    "id": "sleepwear",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "sleepwear",
+                    "name": "Sleepwear",
                     "children": [
                         {
-                            "id": "216",
+                            "id": "loungewear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3763,7 +3781,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "217",
+                            "id": "nightgowns",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3772,7 +3790,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "218",
+                            "id": "robes",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -3780,7 +3798,7 @@ function init(){
                             "name": "Robes",
                             "children": [
                                 {
-                                    "id": "219",
+                                    "id": "bathrobes",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3791,15 +3809,15 @@ function init(){
                             ]
                         },
                         {
-                            "id": "220",
+                            "id": "pajamas",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "pajamas",
+                            "name": "Pajamas",
                             "children": [
                                 {
-                                    "id": "221",
+                                    "id": "pajama-bottoms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3808,7 +3826,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "222",
+                                    "id": "pajama-sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3817,7 +3835,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "223",
+                                    "id": "pajama-tops",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -3828,7 +3846,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "224",
+                            "id": "sleep-shirts-nightgowns",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3839,24 +3857,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "225",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "sportswear",
-                    "children": []
-                },
-                {
-                    "id": "226",
+                    "id": "suits",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "suits",
+                    "name": "Suits",
                     "children": [
                         {
-                            "id": "227",
+                            "id": "suit-vests",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3865,7 +3874,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "228",
+                            "id": "suit-jackets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3874,7 +3883,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "229",
+                            "id": "tuxedo-jackets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3883,7 +3892,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "230",
+                            "id": "tuxedos",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3892,7 +3901,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "231",
+                            "id": "tuxedo-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3901,7 +3910,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "232",
+                            "id": "dress-suits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3910,7 +3919,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "233",
+                            "id": "pantsuits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3919,7 +3928,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "234",
+                            "id": "skirt-suits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3928,7 +3937,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "235",
+                            "id": "tuxedos1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3937,7 +3946,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "236",
+                            "id": "suit-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -3946,71 +3955,71 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "237",
+                            "id": "rain-suits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Rain suits",
+                            "name": "Rain Suits",
                             "children": []
                         }
                     ]
                 },
                 {
-                    "id": "238",
+                    "id": "sweats",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "sweats",
+                    "name": "Sweats",
                     "children": []
                 },
                 {
-                    "id": "239",
+                    "id": "sweaters",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "sweaters",
+                    "name": "Sweaters",
                     "children": [
                         {
-                            "id": "240",
+                            "id": "cardigan-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "cardigan-sweaters",
+                            "name": "Cardigan-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "241",
+                            "id": "cashmere-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "cashmere-sweaters",
+                            "name": "Cashmere-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "242",
+                            "id": "crewneck-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "crewneck-sweaters",
+                            "name": "Crewneck-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "243",
+                            "id": "half-zip-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "half-zip-sweaters",
+                            "name": "Half-Zip-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "244",
+                            "id": "sweaters-vests",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4019,16 +4028,16 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "245",
+                            "id": "turtlenecks-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Turtlenecks-sweaters",
+                            "name": "Turtlenecks-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "246",
+                            "id": "polos1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4037,16 +4046,16 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "247",
+                            "id": "v-neck-sweaters",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "v-neck-sweaters",
+                            "name": "V-Neck-Sweaters",
                             "children": []
                         },
                         {
-                            "id": "248",
+                            "id": "shrugs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4055,7 +4064,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "249",
+                            "id": "tunics",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4064,26 +4073,26 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "250",
+                            "id": "twin-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "twin sets",
+                            "name": "Twin Sets",
                             "children": []
                         }
                     ]
                 },
                 {
-                    "id": "251",
+                    "id": "traditional-ceremonial",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Traditional & Ceremonial Clothing",
+                    "name": "Traditional & Ceremonial",
                     "children": [
                         {
-                            "id": "252",
+                            "id": "dirndls",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4092,7 +4101,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "253",
+                            "id": "hakama-trousers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4101,7 +4110,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "254",
+                            "id": "japanese-black-formal-wear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4110,7 +4119,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "255",
+                            "id": "kimono-outerwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4119,7 +4128,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "256",
+                            "id": "kimonos",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4128,7 +4137,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "257",
+                            "id": "religious-ceremonial-clothing",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -4136,7 +4145,7 @@ function init(){
                             "name": "Religious Ceremonial Clothing",
                             "children": [
                                 {
-                                    "id": "258",
+                                    "id": "baptism-communion-dresses",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4147,7 +4156,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "259",
+                            "id": "saris-lehengas",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4156,7 +4165,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "260",
+                            "id": "traditional-leather-pants",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4165,7 +4174,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "261",
+                            "id": "yukata",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4176,24 +4185,24 @@ function init(){
                     ]
                 },
                 {
-                    "id": "262",
+                    "id": "sweatshirt",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "sweatshirt",
+                    "name": "Sweatshirt",
                     "children": []
                 },
                 {
-                    "id": "263",
+                    "id": "swimwear",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "swimwear",
+                    "name": "Swimwear",
                     "children": [
                         {
-                            "id": "264",
+                            "id": "board-shorts",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4202,7 +4211,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "265",
+                            "id": "briefs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4211,7 +4220,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "266",
+                            "id": "racing",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4220,7 +4229,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "267",
+                            "id": "rash-guards",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4229,7 +4238,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "268",
+                            "id": "trunks",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4238,7 +4247,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "269",
+                            "id": "cover-ups",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4247,7 +4256,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "270",
+                            "id": "one-pieces",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4256,25 +4265,25 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "271",
+                            "id": "racing1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "racing",
+                            "name": "Racing",
                             "children": []
                         },
                         {
-                            "id": "272",
+                            "id": "rash-guards1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "rash guards",
+                            "name": "Rash Guards",
                             "children": []
                         },
                         {
-                            "id": "273",
+                            "id": "separates",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4283,7 +4292,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "274",
+                            "id": "tankinis",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4292,7 +4301,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "275",
+                            "id": "two-piece-bikinis",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -4300,7 +4309,7 @@ function init(){
                             "name": "Two-Piece, Bikinis",
                             "children": [
                                 {
-                                    "id": "276",
+                                    "id": "bikini-top",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4309,7 +4318,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "277",
+                                    "id": "bikini-bottom",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4322,33 +4331,33 @@ function init(){
                     ]
                 },
                 {
-                    "id": "278",
+                    "id": "tops",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "tops",
+                    "name": "Tops",
                     "children": [
                         {
-                            "id": "279",
+                            "id": "tank-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "tank tops",
+                            "name": "Tank Tops",
                             "children": []
                         },
                         {
-                            "id": "280",
+                            "id": "button-front-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Button-front-tops",
+                            "name": "Button-Front-tops",
                             "children": []
                         },
                         {
-                            "id": "281",
+                            "id": "camisole-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4357,7 +4366,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "282",
+                            "id": "halter-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4366,7 +4375,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "283",
+                            "id": "longsleeve-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4375,7 +4384,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "284",
+                            "id": "shortsleeve-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4384,7 +4393,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "285",
+                            "id": "tank-tops1",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4393,7 +4402,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "286",
+                            "id": "maternity-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4404,15 +4413,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "287",
+                    "id": "trousers",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "trousers",
+                    "name": "Trousers",
                     "children": [
                         {
-                            "id": "288",
+                            "id": "sport-trousers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4423,24 +4432,24 @@ function init(){
                     ]
                 },
                 {
-                    "id": "289",
+                    "id": "underwear",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "underwear",
+                    "name": "Underwear",
                     "children": [
                         {
-                            "id": "290",
+                            "id": "sport-underwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Sport underwear",
+                            "name": "Sport Underwear",
                             "children": []
                         },
                         {
-                            "id": "291",
+                            "id": "jock-straps",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4449,7 +4458,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "292",
+                            "id": "thongs-g-strings",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4458,25 +4467,25 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "293",
+                            "id": "mens-boxers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Mens-boxers",
+                            "name": "Mens-Boxers",
                             "children": []
                         },
                         {
-                            "id": "294",
+                            "id": "mens-briefs",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
                             },
-                            "name": "Mens-briefs",
+                            "name": "Mens-Briefs",
                             "children": []
                         },
                         {
-                            "id": "295",
+                            "id": "thermal-underwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -4484,7 +4493,7 @@ function init(){
                             "name": "Thermal Underwear",
                             "children": [
                                 {
-                                    "id": "296",
+                                    "id": "bottoms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4493,7 +4502,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "297",
+                                    "id": "sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4502,7 +4511,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "298",
+                                    "id": "tops1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4513,15 +4522,15 @@ function init(){
                             ]
                         },
                         {
-                            "id": "299",
+                            "id": "maternity-intimates",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "Maternity-intimates",
+                            "name": "Maternity-Intimates",
                             "children": [
                                 {
-                                    "id": "300",
+                                    "id": "abdominal-support",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4530,7 +4539,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "301",
+                                    "id": "belly-bands",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4539,27 +4548,18 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "302",
+                                    "id": "bra-extenders",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Bra Extenders,",
-                                    "children": []
-                                },
-                                {
-                                    "id": "303",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Camisoles",
+                                    "name": "Bra Extenders",
                                     "children": []
                                 }
                             ]
                         },
                         {
-                            "id": "304",
+                            "id": "nursing",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -4567,7 +4567,7 @@ function init(){
                             "name": "Nursing",
                             "children": [
                                 {
-                                    "id": "305",
+                                    "id": "bras",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4576,7 +4576,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "306",
+                                    "id": "dresses1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4585,7 +4585,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "307",
+                                    "id": "sleepwear1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4594,7 +4594,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "308",
+                                    "id": "tops2",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4605,7 +4605,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "309",
+                            "id": "camisoles-camisole-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -4614,7 +4614,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "310",
+                            "id": "women-intimates",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -4622,15 +4622,15 @@ function init(){
                             "name": "Women-intimates",
                             "children": [
                                 {
-                                    "id": "311",
+                                    "id": "accessories",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
                                     },
-                                    "name": "accessories",
+                                    "name": "Accessories",
                                     "children": [
                                         {
-                                            "id": "312",
+                                            "id": "adhesive-bras",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4639,7 +4639,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "313",
+                                            "id": "breast-petals",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4648,7 +4648,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "314",
+                                            "id": "bra-extenders1",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4657,7 +4657,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "315",
+                                            "id": "pads-enhancers",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4666,7 +4666,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "316",
+                                            "id": "breast-petals1",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4675,7 +4675,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "317",
+                                            "id": "lingerie-bags",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4684,7 +4684,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "318",
+                                            "id": "lingerie-tape",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4693,7 +4693,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "319",
+                                            "id": "straps",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4704,15 +4704,15 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "320",
+                                    "id": "bras1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
                                     },
-                                    "name": "bras",
+                                    "name": "Bras",
                                     "children": [
                                         {
-                                            "id": "321",
+                                            "id": "bralettes",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4721,7 +4721,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "322",
+                                            "id": "convertible",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4730,7 +4730,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "323",
+                                            "id": "demicup",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4739,7 +4739,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "324",
+                                            "id": "mastectom",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4748,7 +4748,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "325",
+                                            "id": "minimizers",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4757,7 +4757,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "326",
+                                            "id": "push-up",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4766,7 +4766,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "327",
+                                            "id": "sports-bras",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4775,7 +4775,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "328",
+                                            "id": "strapless",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4786,7 +4786,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "329",
+                                    "id": "shapewear",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -4794,7 +4794,7 @@ function init(){
                                     "name": "Shapewear",
                                     "children": [
                                         {
-                                            "id": "330",
+                                            "id": "bodysuits",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4803,7 +4803,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "331",
+                                            "id": "camisoles",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4812,7 +4812,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "332",
+                                            "id": "control-panties",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4821,7 +4821,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "333",
+                                            "id": "control-slips",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4830,7 +4830,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "334",
+                                            "id": "thigh-slimmers",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4839,7 +4839,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "335",
+                                            "id": "waist-cinchers",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4850,7 +4850,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "336",
+                                    "id": "garter-belts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4859,7 +4859,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "337",
+                                    "id": "corsets-bustiers",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4868,7 +4868,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "338",
+                                    "id": "breast-forms-enhancers",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4877,7 +4877,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "339",
+                                    "id": "stockings-thigh-highs",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4886,7 +4886,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "340",
+                                    "id": "lingerie",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4895,7 +4895,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "341",
+                                    "id": "lingerie-accessories",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -4903,7 +4903,7 @@ function init(){
                                     "name": "Lingerie Accessories",
                                     "children": [
                                         {
-                                            "id": "342",
+                                            "id": "garter-belts1",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4912,7 +4912,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "343",
+                                            "id": "garters",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4923,16 +4923,16 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "344",
+                                    "id": "long-johns",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "long johns",
+                                    "name": "Long Johns",
                                     "children": []
                                 },
                                 {
-                                    "id": "345",
+                                    "id": "leg-warmers",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -4941,15 +4941,15 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "346",
+                                    "id": "panties1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
                                     },
-                                    "name": "panties",
+                                    "name": "Panties",
                                     "children": [
                                         {
-                                            "id": "347",
+                                            "id": "bikinis",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4958,16 +4958,16 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "348",
+                                            "id": "boy-shorts",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
                                             },
-                                            "name": "Boy Shorts,",
+                                            "name": "Boy Shorts",
                                             "children": []
                                         },
                                         {
-                                            "id": "349",
+                                            "id": "briefs1",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4976,7 +4976,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "350",
+                                            "id": "g-strings",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4985,7 +4985,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "351",
+                                            "id": "hipsters",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -4994,7 +4994,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "352",
+                                            "id": "tangas",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5003,7 +5003,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "353",
+                                            "id": "thongs",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5014,7 +5014,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "354",
+                                    "id": "slips",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -5022,7 +5022,7 @@ function init(){
                                     "name": "Slips",
                                     "children": [
                                         {
-                                            "id": "355",
+                                            "id": "full-slips",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5031,7 +5031,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "356",
+                                            "id": "half-slips",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5042,7 +5042,7 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "357",
+                                    "id": "tights",
                                     "data": {
                                         "type": "concept",
                                         "depth": 5
@@ -5050,33 +5050,33 @@ function init(){
                                     "name": "Tights",
                                     "children": [
                                         {
-                                            "id": "358",
+                                            "id": "sport-tights",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 6
                                             },
-                                            "name": "sport tights",
+                                            "name": "Sport tights",
                                             "children": [
                                                 {
-                                                    "id": "359",
+                                                    "id": "football-tights",
                                                     "data": {
                                                         "type": "concept",
                                                         "depth": 5
                                                     },
-                                                    "name": "football tights",
+                                                    "name": "Football tights",
                                                     "children": []
                                                 },
                                                 {
-                                                    "id": "360",
+                                                    "id": "skateboarding-tights",
                                                     "data": {
                                                         "type": "concept",
                                                         "depth": 5
                                                     },
-                                                    "name": "skateboarding tights",
+                                                    "name": "Skateboarding tights",
                                                     "children": []
                                                 },
                                                 {
-                                                    "id": "361",
+                                                    "id": "bicycle-tights",
                                                     "data": {
                                                         "type": "concept",
                                                         "depth": 5
@@ -5087,7 +5087,7 @@ function init(){
                                             ]
                                         },
                                         {
-                                            "id": "362",
+                                            "id": "control-top",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5096,7 +5096,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "363",
+                                            "id": "matte",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5105,7 +5105,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "364",
+                                            "id": "mesh-net",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5114,7 +5114,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "365",
+                                            "id": "opaque",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5123,7 +5123,7 @@ function init(){
                                             "children": []
                                         },
                                         {
-                                            "id": "366",
+                                            "id": "patterned",
                                             "data": {
                                                 "type": "concept",
                                                 "depth": 4
@@ -5134,12 +5134,12 @@ function init(){
                                     ]
                                 },
                                 {
-                                    "id": "367",
+                                    "id": "thongs1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "thongs",
+                                    "name": "Thongs",
                                     "children": []
                                 }
                             ]
@@ -5147,41 +5147,41 @@ function init(){
                     ]
                 },
                 {
-                    "id": "368",
+                    "id": "vests",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "vests",
+                    "name": "Vests",
                     "children": [
                         {
-                            "id": "369",
+                            "id": "sports-vests",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
                             },
-                            "name": "sports vests",
+                            "name": "Sports Vests",
                             "children": [
                                 {
-                                    "id": "370",
+                                    "id": "football-vests",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "football vests",
+                                    "name": "Football Vests",
                                     "children": []
                                 },
                                 {
-                                    "id": "371",
+                                    "id": "climbing-robes",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "climbing robes",
+                                    "name": "Climbing Robes",
                                     "children": []
                                 },
                                 {
-                                    "id": "372",
+                                    "id": "hunting-fishing-vests",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5194,7 +5194,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "373",
+                    "id": "blouses",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -5202,7 +5202,7 @@ function init(){
                     "name": "Blouses",
                     "children": [
                         {
-                            "id": "374",
+                            "id": "peasant-blouses",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5213,7 +5213,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "375",
+                    "id": "camis",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -5222,15 +5222,15 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "376",
+                    "id": "baby-toddler",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Baby & Toddler Clothing",
+                    "name": "Baby & Toddler",
                     "children": [
                         {
-                            "id": "377",
+                            "id": "baby-toddler-bottoms",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5239,7 +5239,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "378",
+                            "id": "baby-toddler-diaper-covers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5248,7 +5248,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "379",
+                            "id": "baby-toddler-dresses",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5257,7 +5257,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "380",
+                            "id": "baby-toddler-outerwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5265,7 +5265,7 @@ function init(){
                             "name": "Baby & Toddler Outerwear",
                             "children": [
                                 {
-                                    "id": "381",
+                                    "id": "fleece",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5274,7 +5274,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "382",
+                                    "id": "vests1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5283,7 +5283,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "383",
+                                    "id": "rain-wear",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5292,7 +5292,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "384",
+                                    "id": "jackets1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5301,7 +5301,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "385",
+                                    "id": "snow-wear",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5310,7 +5310,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "386",
+                                    "id": "puffers1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5319,7 +5319,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "387",
+                                    "id": "sport",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5330,7 +5330,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "388",
+                            "id": "baby-toddler-outfits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5339,7 +5339,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "389",
+                            "id": "baby-toddler-sleepwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5347,7 +5347,7 @@ function init(){
                             "name": "Baby & Toddler Sleepwear",
                             "children": [
                                 {
-                                    "id": "390",
+                                    "id": "sleepsacks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5356,7 +5356,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "391",
+                                    "id": "robes1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5365,7 +5365,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "392",
+                                    "id": "blanket-sleepers",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5374,7 +5374,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "393",
+                                    "id": "sets-pajamas",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5385,7 +5385,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "394",
+                            "id": "baby-toddler-socks-tights",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5394,7 +5394,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "395",
+                            "id": "baby-toddler-swimwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5403,7 +5403,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "396",
+                            "id": "baby-toddler-tops",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5412,7 +5412,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "397",
+                            "id": "clothing-sets",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5420,7 +5420,7 @@ function init(){
                             "name": "Clothing Sets",
                             "children": [
                                 {
-                                    "id": "398",
+                                    "id": "pant-sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5429,7 +5429,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "399",
+                                    "id": "skirt-sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5438,7 +5438,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "400",
+                                    "id": "short-sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5449,7 +5449,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "401",
+                            "id": "baby-one-pieces",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5458,7 +5458,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "402",
+                            "id": "toddler-underwear",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5466,7 +5466,7 @@ function init(){
                             "name": "Toddler Underwear",
                             "children": [
                                 {
-                                    "id": "403",
+                                    "id": "tights1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5475,16 +5475,16 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "404",
+                                    "id": "undershirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
                                     },
-                                    "name": "Undershirts",
+                                    "name": "UnderShirts",
                                     "children": []
                                 },
                                 {
-                                    "id": "405",
+                                    "id": "socks",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5493,7 +5493,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "406",
+                                    "id": "pants1",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5506,7 +5506,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "407",
+                    "id": "uniforms",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -5514,7 +5514,7 @@ function init(){
                     "name": "Uniforms",
                     "children": [
                         {
-                            "id": "408",
+                            "id": "contractor-pants-coveralls",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5523,7 +5523,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "409",
+                            "id": "flight-suits",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5532,7 +5532,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "410",
+                            "id": "military-uniforms",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5541,7 +5541,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "411",
+                            "id": "school-uniforms",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5550,7 +5550,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "412",
+                            "id": "security-uniforms",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5559,7 +5559,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "413",
+                            "id": "sports-uniforms",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5567,7 +5567,7 @@ function init(){
                             "name": "Sports Uniforms",
                             "children": [
                                 {
-                                    "id": "414",
+                                    "id": "baseball-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5576,7 +5576,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "415",
+                                    "id": "basketball-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5585,7 +5585,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "416",
+                                    "id": "cheerleading-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5594,7 +5594,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "417",
+                                    "id": "cricket-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5603,7 +5603,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "418",
+                                    "id": "football-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5612,7 +5612,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "419",
+                                    "id": "hockey-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5621,7 +5621,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "420",
+                                    "id": "martial-arts-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5630,7 +5630,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "421",
+                                    "id": "officiating-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5639,7 +5639,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "422",
+                                    "id": "soccer-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5648,7 +5648,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "423",
+                                    "id": "softball-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5657,7 +5657,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "424",
+                                    "id": "wrestling-uniforms",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5668,7 +5668,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "425",
+                            "id": "chefs-uniforms",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5676,7 +5676,7 @@ function init(){
                             "name": "Chef's Uniforms",
                             "children": [
                                 {
-                                    "id": "426",
+                                    "id": "chefs-hats",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5685,7 +5685,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "427",
+                                    "id": "chefs-jackets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5694,7 +5694,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "428",
+                                    "id": "chefs-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5705,7 +5705,7 @@ function init(){
                             ]
                         },
                         {
-                            "id": "429",
+                            "id": "medical-uniforms-scrubs",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5713,7 +5713,7 @@ function init(){
                             "name": "Medical Uniforms & Scrubs",
                             "children": [
                                 {
-                                    "id": "430",
+                                    "id": "scrub-caps",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5722,7 +5722,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "431",
+                                    "id": "scrub-jackets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5731,7 +5731,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "432",
+                                    "id": "scrub-pants",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5740,7 +5740,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "433",
+                                    "id": "scrub-sets",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5749,7 +5749,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "434",
+                                    "id": "scrub-shirts",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5762,7 +5762,7 @@ function init(){
                     ]
                 },
                 {
-                    "id": "435",
+                    "id": "wedding-bridal-party-dresses",
                     "data": {
                         "type": "concept",
                         "depth": 3
@@ -5770,7 +5770,7 @@ function init(){
                     "name": "Wedding & Bridal Party Dresses",
                     "children": [
                         {
-                            "id": "436",
+                            "id": "bridal-party-dresses",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5779,7 +5779,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "437",
+                            "id": "wedding-dresses",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5788,7 +5788,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "438",
+                            "id": "white-coats",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5801,7 +5801,7 @@ function init(){
             ]
         },
         {
-            "id": "631",
+            "id": "shoes",
             "data": {
                 "type": "concept",
                 "depth": 2
@@ -5809,71 +5809,15 @@ function init(){
             "name": "Shoes",
             "children": [
                 {
-                    "id": "632",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Crib shoes(Gir/ boy)",
-                    "children": []
-                },
-                {
-                    "id": "633",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "First Walkers (Girl/ boy)",
-                    "children": []
-                },
-                {
-                    "id": "634",
+                    "id": "boots",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "Business Shoes",
+                    "name": "Boots",
                     "children": [
                         {
-                            "id": "635",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Brogues & Lace-Ups",
-                            "children": []
-                        },
-                        {
-                            "id": "636",
-                            "data": {
-                                "type": "concept",
-                                "depth": 4
-                            },
-                            "name": "Business Slippers",
-                            "children": [
-                                {
-                                    "id": "637",
-                                    "data": {
-                                        "type": "concept",
-                                        "depth": 3
-                                    },
-                                    "name": "Slippers",
-                                    "children": []
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "638",
-                    "data": {
-                        "type": "concept",
-                        "depth": 3
-                    },
-                    "name": "boots",
-                    "children": [
-                        {
-                            "id": "639",
+                            "id": "wellies",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5882,7 +5826,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "640",
+                            "id": "heeled-boots",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5891,7 +5835,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "641",
+                            "id": "cowboy-biker-boots",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5900,7 +5844,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "642",
+                            "id": "lace-up-boots",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5909,16 +5853,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "643",
-                            "data": {
-                                "type": "concept",
-                                "depth": 2
-                            },
-                            "name": "Wellies",
-                            "children": []
-                        },
-                        {
-                            "id": "644",
+                            "id": "ankle-boots",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5927,7 +5862,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "645",
+                            "id": "snow-boots",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5938,15 +5873,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "646",
+                    "id": "flats",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "flats",
+                    "name": "Flats",
                     "children": [
                         {
-                            "id": "647",
+                            "id": "moccasins",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5955,7 +5890,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "648",
+                            "id": "espadrilles",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -5964,7 +5899,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "649",
+                            "id": "lace-ups",
                             "data": {
                                 "type": "concept",
                                 "depth": 4
@@ -5972,7 +5907,7 @@ function init(){
                             "name": "Lace-Ups",
                             "children": [
                                 {
-                                    "id": "650",
+                                    "id": "sporty-lace-ups",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5981,7 +5916,7 @@ function init(){
                                     "children": []
                                 },
                                 {
-                                    "id": "651",
+                                    "id": "boat-shoes",
                                     "data": {
                                         "type": "concept",
                                         "depth": 3
@@ -5994,24 +5929,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "652",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "Mules-and-clogs",
-                    "children": []
-                },
-                {
-                    "id": "653",
+                    "id": "sandals",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "sandals",
+                    "name": "Sandals",
                     "children": [
                         {
-                            "id": "654",
+                            "id": "flat-sandals",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -6020,7 +5946,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "655",
+                            "id": "high-sandals",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -6029,7 +5955,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "656",
+                            "id": "classic-sandals",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -6040,24 +5966,15 @@ function init(){
                     ]
                 },
                 {
-                    "id": "657",
-                    "data": {
-                        "type": "concept",
-                        "depth": 1
-                    },
-                    "name": "wedges",
-                    "children": []
-                },
-                {
-                    "id": "658",
+                    "id": "sneakers",
                     "data": {
                         "type": "concept",
                         "depth": 3
                     },
-                    "name": "sneakers",
+                    "name": "Sneakers",
                     "children": [
                         {
-                            "id": "659",
+                            "id": "low-top-sneakers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -6066,7 +5983,7 @@ function init(){
                             "children": []
                         },
                         {
-                            "id": "660",
+                            "id": "high-top-sneakers",
                             "data": {
                                 "type": "concept",
                                 "depth": 2
@@ -6077,16 +5994,90 @@ function init(){
                     ]
                 },
                 {
-                    "id": "661",
+                    "id": "crib-shoes",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "athletic shoes",
+                    "name": "Crib Shoes",
                     "children": []
                 },
                 {
-                    "id": "662",
+                    "id": "first-walkers",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "First Walkers ",
+                    "children": []
+                },
+                {
+                    "id": "business-shoes",
+                    "data": {
+                        "type": "concept",
+                        "depth": 3
+                    },
+                    "name": "Business Shoes",
+                    "children": [
+                        {
+                            "id": "brogues-lace-ups",
+                            "data": {
+                                "type": "concept",
+                                "depth": 2
+                            },
+                            "name": "Brogues & Lace-Ups",
+                            "children": []
+                        },
+                        {
+                            "id": "business-slippers",
+                            "data": {
+                                "type": "concept",
+                                "depth": 4
+                            },
+                            "name": "Business Slippers",
+                            "children": [
+                                {
+                                    "id": "slippers",
+                                    "data": {
+                                        "type": "concept",
+                                        "depth": 3
+                                    },
+                                    "name": "Slippers",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "mules-and-clogs",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Mules-and-clogs",
+                    "children": []
+                },
+                {
+                    "id": "wedges",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Wedges",
+                    "children": []
+                },
+                {
+                    "id": "athletic-shoes",
+                    "data": {
+                        "type": "concept",
+                        "depth": 1
+                    },
+                    "name": "Athletic Shoes",
+                    "children": []
+                },
+                {
+                    "id": "flats-oxfords",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6095,7 +6086,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "663",
+                    "id": "heels",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6104,7 +6095,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "664",
+                    "id": "occupational",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6113,7 +6104,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "665",
+                    "id": "slippers1",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6122,7 +6113,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "666",
+                    "id": "formal",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6131,7 +6122,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "667",
+                    "id": "flip-flops",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6140,7 +6131,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "668",
+                    "id": "casual2",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6149,16 +6140,16 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "669",
+                    "id": "slip-ons-shoes",
                     "data": {
                         "type": "concept",
                         "depth": 1
                     },
-                    "name": "slip-ons-shoes",
+                    "name": "Slip-Ons-Shoes",
                     "children": []
                 },
                 {
-                    "id": "670",
+                    "id": "costume-shoes",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6167,7 +6158,7 @@ function init(){
                     "children": []
                 },
                 {
-                    "id": "671",
+                    "id": "ballerinas",
                     "data": {
                         "type": "concept",
                         "depth": 1
@@ -6198,11 +6189,11 @@ function init(){
           color: "#FF8C00"
       },
       Edge: {
-          lineWidth: 2,
-          color: "#6B8C45"
+          lineWidth: 0.5,
+          color: "#111"
       },
       onBeforeCompute: function(node){
-          Log.write("centering");
+          
       },
       //Attach event handlers and add text to the
       //labels. This method is only triggered on label
@@ -6224,8 +6215,9 @@ function init(){
           style.display = '';
           style.cursor = 'pointer';
           if (node._depth <= 1) {
-              style.fontSize = "2em";
+              style.fontSize = "1.5em";
               style.color = "#000";
+              style.backgroundColor="#fff"
 
           } else if(node._depth == 2){
               style.fontSize = "1em";
@@ -6241,7 +6233,7 @@ function init(){
       },
       
       onComplete: function(){
-          Log.write("done");
+        
           
           //Build the right column relations list.
           //This is done by collecting the information (stored in the data property) 
